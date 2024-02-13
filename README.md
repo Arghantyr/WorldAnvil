@@ -8,7 +8,7 @@ The code here (working name: PI-stack) is a sandbox created for backup and stati
 
 # TO-DO
 
-~~- maintenance: refactor the 'test.py' code into externally loaded module~~
+- ~~maintenance: refactor the 'test.py' code into externally loaded module~~
 - feature: add a logger and form a log retention policy
 - feature: automatic pinging for change in articles based on a config file (define world, list of categories/accept ALL, ...) -- based on /article endpoint with granularity -1; if the article has changed add it to the a special list of the articles to back-up
 - feature: setup a private github repo for backups
